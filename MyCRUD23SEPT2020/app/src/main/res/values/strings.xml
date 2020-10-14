@@ -9,4 +9,15 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hot Pink Studio</string>
+    <string name="nav_header_subtitle">hotpink.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_pegawai">Pegawai</string>
+    <string name="menu_posisi">Posisi</string>
+    <string name="hot_pink">HOT PINK</string>
+
 </resources>
