@@ -23,7 +23,7 @@
 		
 		//Memasukkan Nama dan ID kedalam Array Kosong yang telah dibuat 
 		array_push($result,array(
-			"id"=>$row['id'],
+			"id"=>$row['id_posisi'],
 			"posisi"=>$row['posisi']
 		));
 	}

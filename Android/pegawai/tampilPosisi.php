@@ -23,7 +23,7 @@
 	$result = array();
 	$row = mysqli_fetch_array($r);
 	array_push($result,array(
-			"id"=>$row['id'],
+			"id"=>$row['id_posisi'],
 			"posisi"=>$row['posisi'],
 			"gajih"=>$row['gajih']
 		));
